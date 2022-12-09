@@ -1,8 +1,0 @@
-@font-face {
-   font-family: "HyliaSerifBeta-Regular";
-   font-style: normal;
-   font-weight: 400;
-   font-display: swap;
-   src: url(https://github.com/Mushroom3ater/JDRZelda/blob/32ba6b14bfbe2d4fec0c6c61e5de8689d3fcddfe/HyliaSerifBeta-Regular.otf) format('opentype');
-}
-
